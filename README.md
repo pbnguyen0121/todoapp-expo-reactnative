@@ -64,7 +64,7 @@ You can try out the app easily using Expo Go:
 
 Scan the QR code below using **Expo Go** app:
 
-![QR Code](https://qr.expo.dev/@pbnguyen0121/todoApp?preview=true)
+![QR Code](./assets/qr.png)
 
 🔗 Or open directly: [https://expo.dev/@pbnguyen0121/todoApp](https://expo.dev/@pbnguyen0121/todoApp)
 
