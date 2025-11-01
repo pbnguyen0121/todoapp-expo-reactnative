@@ -66,7 +66,7 @@ Scan the QR code below using **Expo Go** app:
 
 ![QR Code](./assets/qr.png)
 
-🔗 Or open directly: [https://expo.dev/@pbnguyen0121/todoApp](https://expo.dev/@pbnguyen0121/todoApp)
+🔗 Or open directly: todoapp-expo-reactnative.vercel.app
 
 💬 Feedback & Contact
 
